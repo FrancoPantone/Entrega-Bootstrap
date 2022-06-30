@@ -1,0 +1,44 @@
+h1 {
+    display: inline;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black
+}
+
+header {
+    background-color:rgb(53, 52, 52) ;
+    margin-bottom: 5px;
+}
+header h1 {
+    color:white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    
+}
+
+#miFooter {
+    background-color: rgb(53, 52, 52);
+}
+
+#miFooter i {
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
